@@ -1,0 +1,12 @@
+{
+	"id": "handbuttons",
+	"name": "Hand Buttons",
+	"display_name": "Hand Buttons",
+    "main_file": "handbuttons.lua",
+	"author": ["111100001"],
+    "prefix": "hndbttns",
+	"description": "UI buttons for selecting hand types",
+	"priority": 0,
+    "version": "0.0.1",
+	"dependencies": []
+}

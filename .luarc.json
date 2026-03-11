@@ -1,0 +1,14 @@
+{
+  "Lua.workspace.library": ["C:\\Users\\fqf1f\\AppData\\oaming\\Balatro\\Mods\\smods-1.0.0-beta-1503a", "C:\\Users\\fqf1f\\AppData\\Roaming\\Balatro\\Mods\\lovely\\dump",
+        "${addons}/love2d/module/library", "C:\\Users\\fqf1f\\AppData\\Roaming\\Balatro\\Mods\\balatro-lsp-master", "C:\\Users\\fqf1f\\AppData\\Roaming\\Balatro\\Mods\\smods-1.0.0-beta-1503a\\lsp_def"],
+    "runtime.version": "LuaJIT",
+    "runtime.special": {
+        "love.filesystem.load": "loadfile"
+    },
+    "workspace.checkThirdParty": false,
+    "workspace.ignoreDir": [
+        "lovely",
+        "balatro-lsp-master",
+        "C:\\Users\\fqf1f\\AppData\\Roaming\\Balatro\\Mods\\smods-1.0.0-beta-1503a"
+    ]
+}
